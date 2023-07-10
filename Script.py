@@ -1,14 +1,14 @@
 class script(object):
-    START_TXT = """<b>Hᴇʏ {} ɪᴍ 『 ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ 』 ᴀɴ Aᴡᴇsᴏᴍᴇ Aᴜᴛᴏ + Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.
-Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
+    START_TXT = """<b>Hᴇʏ {} ɪᴍ ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ ᴀɴ Aᴡᴇsᴏᴍᴇ Aᴜᴛᴏ + Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.
+Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ </b>"""
 
-    HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs 👇</b>"""
+    HELP_TXT = """<b>Hᴇʏ {} Fʀɪᴇɴᴅ Hᴇʀᴇ Yᴏᴜʀ Bᴜᴛᴛᴏɴs </b>"""
 
     PRIVATEBOT_TXT = """<b>Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ
 
 - ›› Mᴜsᴛ Aᴅᴅ Mᴇ Aᴅᴍɪɴ Tᴏ Wᴏʀᴋ Oɴ Tʜɪs Gʀᴏᴜᴘ
 
-- ›› Cʜᴀɴɢᴇ Sᴇᴛᴛɪɴɢ Fᴏʀ Uʀ Gʀᴏᴜᴘ Cʟɪᴄᴋ 👉 /connect
+- ›› Cʜᴀɴɢᴇ Sᴇᴛᴛɪɴɢ Fᴏʀ Uʀ Gʀᴏᴜᴘ Cʟɪᴄᴋ /connect
 
 - ›› I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs/Sᴇʀɪᴇs Dᴏɴ'ᴛ Wᴏʀʀʏ
 
@@ -17,27 +17,27 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     MODS_TXT = """I Hᴀᴠᴇ Mᴀɴʏ Fᴇᴀᴛᴜʀᴇs"""
 
-    PONGD_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
+    PONGD_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ /ping"""
     
-    PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
+    PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ /ping"""
 
-    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MrKillerDeveloperBot>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Mrkiller_1109>ᴍʀᴋɪʟʟᴇʀ</a>
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/TW_Botzs>TW_Botzs</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/TW_Botzs>ᴍᴏᴠɪᴇs ʙᴏᴛ</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
-📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/Movie_Zone_Request_Group>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://github.com/harshil8981/PremiumFilter>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TamilMovies_Workshop>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/TW_Botzs>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Hp_botupdate
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Mrkiller_1109>ᴍʀᴋɪʟʟᴇʀ</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/TW_Botzs>TW_Botzsa>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Hp_botupdate</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @TamilMovies_Workshop</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Mrkiller_1109>ᴍʀᴋɪʟʟᴇʀ</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/TW_Botzs>TW_Botzs</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
@@ -67,7 +67,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @Movie_Zone_Request_Group</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @TamilMovies_Workshop</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
